@@ -1,0 +1,308 @@
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\csc.exe
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\vbc.exe
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\VBCSCompiler.exe
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\apptest.dll.config
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\apptest.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\apptest.pdb
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Antlr3.Runtime.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\EntityFramework.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\EntityFramework.SqlServer.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Newtonsoft.Json.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Owin.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Net.Http.Formatting.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Helpers.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Http.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Http.Owin.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Http.WebHost.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Mvc.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Optimization.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Razor.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.WebPages.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.WebPages.Razor.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\WebGrease.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Newtonsoft.Json.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Net.Http.Formatting.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Helpers.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Http.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Http.WebHost.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Mvc.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Optimization.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Razor.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.WebPages.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.WebPages.Razor.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Antlr3.Runtime.pdb
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\EntityFramework.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\EntityFramework.SqlServer.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\bin\System.Web.Http.Owin.xml
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\obj\Debug\apptest.csprojResolveAssemblyReference.cache
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\obj\Debug\apptest.dll
+C:\Users\SiNA\OneDrive\Desktop\apptest\apptest\obj\Debug\apptest.pdb
+E:\OFU\C#\apptest\apptest\bin\roslyn\csc.exe
+E:\OFU\C#\apptest\apptest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OFU\C#\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OFU\C#\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OFU\C#\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OFU\C#\apptest\apptest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OFU\C#\apptest\apptest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OFU\C#\apptest\apptest\bin\roslyn\System.Collections.Immutable.dll
+E:\OFU\C#\apptest\apptest\bin\roslyn\System.Reflection.Metadata.dll
+E:\OFU\C#\apptest\apptest\bin\roslyn\vbc.exe
+E:\OFU\C#\apptest\apptest\bin\roslyn\VBCSCompiler.exe
+E:\OFU\C#\apptest\apptest\bin\roslyn\VBCSCompiler.exe.config
+E:\OFU\C#\apptest\apptest\bin\apptest.dll.config
+E:\OFU\C#\apptest\apptest\bin\apptest.dll
+E:\OFU\C#\apptest\apptest\bin\apptest.pdb
+E:\OFU\C#\apptest\apptest\bin\Antlr3.Runtime.dll
+E:\OFU\C#\apptest\apptest\bin\EntityFramework.dll
+E:\OFU\C#\apptest\apptest\bin\EntityFramework.SqlServer.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.AspNet.Identity.Core.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.Cookies.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.Facebook.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.Google.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.OAuth.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.Twitter.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Web.Infrastructure.dll
+E:\OFU\C#\apptest\apptest\bin\Newtonsoft.Json.dll
+E:\OFU\C#\apptest\apptest\bin\Owin.dll
+E:\OFU\C#\apptest\apptest\bin\System.Net.Http.Formatting.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.Helpers.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.Http.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.Http.Owin.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.Http.WebHost.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.Mvc.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.Optimization.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.Razor.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.WebPages.Deployment.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.WebPages.dll
+E:\OFU\C#\apptest\apptest\bin\System.Web.WebPages.Razor.dll
+E:\OFU\C#\apptest\apptest\bin\WebGrease.dll
+E:\OFU\C#\apptest\apptest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OFU\C#\apptest\apptest\bin\Newtonsoft.Json.xml
+E:\OFU\C#\apptest\apptest\bin\System.Net.Http.Formatting.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.Helpers.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.Http.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.Http.WebHost.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.Mvc.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.Optimization.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.Razor.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.WebPages.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.WebPages.Deployment.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.WebPages.Razor.xml
+E:\OFU\C#\apptest\apptest\bin\Antlr3.Runtime.pdb
+E:\OFU\C#\apptest\apptest\bin\EntityFramework.xml
+E:\OFU\C#\apptest\apptest\bin\EntityFramework.SqlServer.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.AspNet.Identity.Core.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.Facebook.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.Cookies.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.OAuth.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.Google.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.Twitter.xml
+E:\OFU\C#\apptest\apptest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\OFU\C#\apptest\apptest\bin\System.Web.Http.Owin.xml
+E:\OFU\C#\apptest\apptest\obj\Debug\apptest.csprojResolveAssemblyReference.cache
+E:\OFU\C#\apptest\apptest\obj\Debug\apptest.dll
+E:\OFU\C#\apptest\apptest\obj\Debug\apptest.pdb
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\csc.exe
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\System.Collections.Immutable.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\vbc.exe
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\VBCSCompiler.exe
+E:\Dars uni\8\New folder\apptest\apptest\bin\roslyn\VBCSCompiler.exe.config
+E:\Dars uni\8\New folder\apptest\apptest\bin\apptest.dll.config
+E:\Dars uni\8\New folder\apptest\apptest\bin\apptest.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\apptest.pdb
+E:\Dars uni\8\New folder\apptest\apptest\bin\Antlr3.Runtime.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\EntityFramework.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\EntityFramework.SqlServer.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.Google.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Web.Infrastructure.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Newtonsoft.Json.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Owin.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Net.Http.Formatting.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Helpers.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Http.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Http.Owin.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Http.WebHost.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Mvc.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Optimization.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Razor.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.WebPages.Deployment.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.WebPages.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.WebPages.Razor.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\WebGrease.dll
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Newtonsoft.Json.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Net.Http.Formatting.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Helpers.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Http.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Http.WebHost.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Mvc.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Optimization.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Razor.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.WebPages.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.WebPages.Deployment.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.WebPages.Razor.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Antlr3.Runtime.pdb
+E:\Dars uni\8\New folder\apptest\apptest\bin\EntityFramework.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\EntityFramework.SqlServer.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.Google.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dars uni\8\New folder\apptest\apptest\bin\System.Web.Http.Owin.xml
+E:\Dars uni\8\New folder\apptest\apptest\obj\Debug\apptest.csprojResolveAssemblyReference.cache
+E:\Dars uni\8\New folder\apptest\apptest\obj\Debug\apptest.dll
+E:\Dars uni\8\New folder\apptest\apptest\obj\Debug\apptest.pdb
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\csc.exe
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\System.Collections.Immutable.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\vbc.exe
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\VBCSCompiler.exe
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\roslyn\VBCSCompiler.exe.config
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\apptest.dll.config
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\apptest.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\apptest.pdb
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Antlr3.Runtime.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\EntityFramework.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\EntityFramework.SqlServer.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.Google.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Web.Infrastructure.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Newtonsoft.Json.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Owin.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Net.Http.Formatting.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Helpers.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Http.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Http.Owin.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Http.WebHost.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Mvc.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Optimization.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Razor.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.WebPages.Deployment.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.WebPages.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.WebPages.Razor.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\WebGrease.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Newtonsoft.Json.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Net.Http.Formatting.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Helpers.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Http.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Http.WebHost.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Mvc.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Optimization.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Razor.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.WebPages.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.WebPages.Deployment.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.WebPages.Razor.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Antlr3.Runtime.pdb
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\EntityFramework.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\EntityFramework.SqlServer.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.Google.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\bin\System.Web.Http.Owin.xml
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\obj\Debug\apptest.csprojResolveAssemblyReference.cache
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\obj\Debug\apptest.dll
+E:\Dars uni\8\مهندسی اینترنت\apptest\apptest\obj\Debug\apptest.pdb
