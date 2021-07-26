@@ -12,6 +12,7 @@ namespace apptest.Models
         public int price;
         public Kala()
         {
+            kala
 
         }
     }
